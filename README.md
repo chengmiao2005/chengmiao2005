@@ -21,6 +21,16 @@ A frame-based speech-processing project using LPC analysis, autocorrelation-base
 
 A steady-state coupled-coil wireless-power model for compensation-parameter calculation, branch-current analysis, power/efficiency evaluation, and frequency/coupling studies.
 
+### [Flywheel Energy Storage Modeling and Control](https://github.com/chengmiao2005/Flywheel-Energy-Storage-System-MATLAB)
+**MATLAB · Simulink · Dynamic Modeling · Feedback Control · Energy Storage**
+
+An ongoing five-stage simulation study progressing from flywheel dynamics and mechanical losses to DC motor coupling, cascaded control, and charging/discharging protection logic, using provisional test parameters.
+
+### [Hengqin Enterprise Map Visualization](https://github.com/chengmiao2005/Hengqin-Tax-Map-Visualization-System)
+**HTML/CSS/JavaScript · Leaflet · Web GIS · JSON · Data Visualization**
+
+A web-based enterprise mapping application with search, interactive record editing, visit logs, and geographic range management, presented as a browser-local demonstration with fictional enterprise data.
+
 ## Current Academic Work
 
 - **Undergraduate Thesis:** Flywheel Energy Storage System for Rail Transit Braking Energy Recovery — system modeling, PMSM field-oriented control, bidirectional DC/DC power flow, and MATLAB/Simulink & PSIM simulation.
