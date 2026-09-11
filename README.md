@@ -26,10 +26,10 @@ A steady-state coupled-coil wireless-power model for compensation-parameter calc
 
 An ongoing five-stage simulation study progressing from flywheel dynamics and mechanical losses to DC motor coupling, cascaded control, and charging/discharging protection logic, using provisional test parameters.
 
-### [Hengqin Enterprise Map Visualization](https://github.com/chengmiao2005/Hengqin-Tax-Map-Visualization-System)
-**HTML/CSS/JavaScript · Leaflet · Web GIS · JSON · Data Visualization**
+### [Hengqin Enterprise Map and Data Preparation](https://github.com/chengmiao2005/Hengqin-Tax-Map-Visualization-System)
+**HTML/CSS/JavaScript · Leaflet · Python · Excel Data Preparation · Web GIS**
 
-A web-based enterprise mapping application with search, interactive record editing, visit logs, and geographic range management, presented as a browser-local demonstration with fictional enterprise data.
+A web-based enterprise map with search, record editing, visit logs, and geographic range management, accompanied by Python scripts for Excel import, coordinate matching, and data consistency checks. The public demonstration uses fictional enterprise data.
 
 ## Current Academic Work
 
