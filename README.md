@@ -24,7 +24,7 @@ A steady-state coupled-coil wireless-power model for compensation-parameter calc
 ### [Flywheel Energy Storage Modeling and Control](https://github.com/chengmiao2005/Flywheel-Energy-Storage-System-MATLAB)
 **MATLAB · Simulink · Dynamic Modeling · Feedback Control · Energy Storage**
 
-An ongoing five-stage simulation study progressing from flywheel dynamics and mechanical losses to DC motor coupling, cascaded control, and charging/discharging protection logic, using provisional test parameters.
+An ongoing MATLAB/Simulink study of motor–flywheel dynamics and control, developed through five incremental stages: ideal dynamics, mechanical losses, DC motor coupling, cascaded proportional speed/current control with compensation and feedforward, and idle/charging/discharging/protection logic. The repository includes model-building scripts, Simulink models, and an example simulation output using provisional test parameters.
 
 ### [Hengqin Enterprise Map and Data Preparation](https://github.com/chengmiao2005/Hengqin-Tax-Map-Visualization-System)
 **HTML/CSS/JavaScript · Leaflet · Python · Excel Data Preparation · Web GIS**
@@ -33,12 +33,12 @@ A web-based enterprise map with search, record editing, visit logs, and geograph
 
 ## Current Academic Work
 
-- **Undergraduate Thesis:** Flywheel Energy Storage System for Rail Transit Braking Energy Recovery — system modeling, PMSM field-oriented control, bidirectional DC/DC power flow, and MATLAB/Simulink & PSIM simulation.
+- **Undergraduate Thesis (ongoing):** Flywheel Energy Storage System for Rail Transit Braking Energy Recovery. My current contribution focuses on the motor–flywheel modeling and control workstream in MATLAB/Simulink, using a DC motor baseline. Parameter selection and integration with the wider rail energy-recovery system remain in progress.
 - **Research Experience:** Wireless power transfer compensation networks and soft-switching techniques.
 
 ## Technical Stack
 
-`Verilog HDL` · `Xilinx Vivado` · `MATLAB/Simulink` · `PSIM` · `Python` · `Git` · `Keil MDK` · `HTML/CSS/JavaScript`
+`Verilog HDL` · `Xilinx Vivado` · `MATLAB/Simulink` · `Python` · `Git` · `Keil MDK` · `HTML/CSS/JavaScript`
 
 ## Engineering Portfolio
 
