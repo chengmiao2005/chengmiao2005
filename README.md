@@ -1,4 +1,4 @@
-# Miao Cheng
+# Cheng Miao
 
 Undergraduate in **Electronic and Information Engineering** at **Macau University of Science and Technology (MUST)**.
 
