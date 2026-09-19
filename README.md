@@ -24,7 +24,7 @@ A steady-state coupled-coil wireless-power model for compensation-parameter calc
 ### [Flywheel Energy Storage Modeling and Control](https://github.com/chengmiao2005/Flywheel-Energy-Storage-System-MATLAB)
 **MATLAB · Simulink · Dynamic Modeling · Feedback Control · Energy Storage**
 
-An ongoing MATLAB/Simulink study of motor–flywheel dynamics and control, developed through five incremental stages: ideal dynamics, mechanical losses, DC motor coupling, cascaded proportional speed/current control with compensation and feedforward, and idle/charging/discharging/protection logic. The repository includes model-building scripts, Simulink models, and an example simulation output using provisional test parameters.
+Five incremental MATLAB/Simulink motor–flywheel models, plus a separate [rail storage dispatch study](https://github.com/chengmiao2005/Flywheel-Energy-Storage-System-MATLAB/tree/main/research/rail-dispatch). The research compares schedule-informed and voltage-feedback control using matched terminal states and explicit energy accounts. A 100-scenario synthetic test finds a small mean increment of 0.0827 kWh (about 0.099%). The repository includes an unpublished working manuscript, limitations, and a runnable saved-result verification script.
 
 ### [Hengqin Enterprise Map and Data Preparation](https://github.com/chengmiao2005/Hengqin-Tax-Map-Visualization-System)
 **HTML/CSS/JavaScript · Leaflet · Python · Excel Data Preparation · Web GIS**
@@ -33,7 +33,7 @@ A web-based enterprise map with search, record editing, visit logs, and geograph
 
 ## Current Academic Work
 
-- **Undergraduate Thesis (ongoing):** Flywheel Energy Storage System for Rail Transit Braking Energy Recovery. My current contribution focuses on the motor–flywheel modeling and control workstream in MATLAB/Simulink, using a DC motor baseline. Parameter selection and integration with the wider rail energy-recovery system remain in progress.
+- **Undergraduate Thesis (ongoing):** Flywheel Energy Storage System for Rail Transit Braking Energy Recovery. Work includes motor–flywheel modeling and a separate synthetic DC-node study of the incremental benefits and limits of schedule-informed dispatch. Current evidence is simulation-based; hardware validation and integration of the two model levels remain open.
 - **Research Experience:** Wireless power transfer compensation networks and soft-switching techniques.
 
 ## Technical Stack
