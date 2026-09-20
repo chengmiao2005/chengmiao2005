@@ -2,9 +2,14 @@
 
 Undergraduate in **Electronic and Information Engineering** at **Macau University of Science and Technology (MUST)**.
 
-My main interests are **digital hardware design, embedded and control systems, signal processing, and power electronics**. This profile highlights selected engineering projects and technical work.
+My main interests are **digital hardware design, semiconductor device characterisation, embedded and control systems, signal processing, and power electronics**. This profile highlights selected engineering projects and technical work.
 
 ## Featured Projects
+
+### [MOSFET Characterisation and Parameter Extraction](https://github.com/chengmiao2005/MOSFET-Characterisation-MATLAB-ngspice)
+**MATLAB · ngspice · Semiconductor Device Modelling · Parameter Extraction · Measurement-Error Analysis**
+
+A reproducible simulation study linking synthetic readout-error analysis, MATLAB/ngspice model comparison, and extraction of threshold voltage, current-scale coefficient, and channel-length modulation. The workflow compares 1,078 simulated bias-point records and checks extracted parameters on 959 distinct held-out points. It also demonstrates why a fixed-drain transfer curve cannot separately identify the current-scale and channel-length-modulation parameters.
 
 ### [FPGA Breakout Game](https://github.com/chengmiao2005/FPGA-Breakout-Game)
 **Verilog HDL · RTL Design · Finite-State Machines · VGA · Xilinx Vivado**
@@ -38,7 +43,7 @@ A web-based enterprise map with search, record editing, visit logs, and geograph
 
 ## Technical Stack
 
-`Verilog HDL` · `Xilinx Vivado` · `MATLAB/Simulink` · `Python` · `Git` · `Keil MDK` · `HTML/CSS/JavaScript`
+`Verilog HDL` · `Xilinx Vivado` · `MATLAB/Simulink` · `ngspice` · `Python` · `Git` · `Keil MDK` · `HTML/CSS/JavaScript`
 
 ## Engineering Portfolio
 
