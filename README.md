@@ -29,7 +29,9 @@ A steady-state coupled-coil wireless-power model for compensation-parameter calc
 ### [Flywheel Energy Storage Modeling and Control](https://github.com/chengmiao2005/Flywheel-Energy-Storage-System-MATLAB)
 **MATLAB · Simulink · Dynamic Modeling · Feedback Control · Energy Storage**
 
-Five incremental MATLAB/Simulink motor–flywheel models, plus a separate [rail storage dispatch study](https://github.com/chengmiao2005/Flywheel-Energy-Storage-System-MATLAB/tree/main/research/rail-dispatch). The research compares schedule-informed and voltage-feedback control using matched terminal states and explicit energy accounts. A 100-scenario synthetic test finds a small mean increment of 0.0827 kWh (about 0.099%). The repository includes an unpublished working manuscript, limitations, and a runnable saved-result verification script.
+Five incremental MATLAB/Simulink motor–flywheel models and an [integrated train-load, converter and flywheel system](https://github.com/chengmiao2005/Flywheel-Energy-Storage-System-MATLAB/tree/main/integrated-system). Saved native results cover 11 MATLAB cases with 322 checks and one Simulink integration case with 67 checks. The repository includes reproducible energy-accounting verification, a technical report and laboratory-data analysis. Parameters remain provisional and hardware validation is pending.
+
+A separate [rail storage dispatch study](https://github.com/chengmiao2005/Flywheel-Energy-Storage-System-MATLAB/tree/main/research/rail-dispatch) compares schedule-informed and voltage-feedback control using an aggregate storage model and matched terminal states. Its 100-scenario synthetic test finds a small mean increment of 0.0827 kWh (about 0.099%), documented in an unpublished working manuscript.
 
 ### [Hengqin Enterprise Map and Data Preparation](https://github.com/chengmiao2005/Hengqin-Tax-Map-Visualization-System)
 **HTML/CSS/JavaScript · Leaflet · Python · Excel Data Preparation · Web GIS**
@@ -38,7 +40,7 @@ A web-based enterprise map with search, record editing, visit logs, and geograph
 
 ## Current Academic Work
 
-- **Undergraduate Thesis (ongoing):** Flywheel Energy Storage System for Rail Transit Braking Energy Recovery. Work includes motor–flywheel modeling and a separate synthetic DC-node study of the incremental benefits and limits of schedule-informed dispatch. Current evidence is simulation-based; hardware validation and integration of the two model levels remain open.
+- **Undergraduate Thesis (ongoing):** Flywheel Energy Storage System for Rail Transit Braking Energy Recovery. Work includes integrated DC motor–flywheel and converter simulation with synthetic railway demand, plus a separate aggregate dispatch study. Current evidence is simulation-based; measured parameters and hardware validation remain open.
 - **Research Experience:** Wireless power transfer compensation networks and soft-switching techniques.
 
 ## Technical Stack
