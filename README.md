@@ -16,6 +16,11 @@ A reproducible simulation study linking synthetic readout-error analysis, MATLAB
 
 A modular Breakout-style digital system with separate control, ball-motion, collision, display, and VGA-timing logic, together with a simulation-oriented development-board wrapper.
 
+### [Embedded Systems Labs: TM4C123 and Wi-Fi Clock](https://github.com/chengmiao2005/embedded-systems)
+**Embedded C · TI TM4C123 · Code Composer Studio · SPI/UART · ESP8266 · NTP**
+
+Four progressive C projects on the TM4C123 LaunchPad, covering LED/button control, an ST7735 SPI display, an analog clock, and ESP-01S Wi-Fi time synchronization. The final lab uses the onboard SW1 button to request NTP time, updates the clock to Beijing time (UTC+8), and reports the request, parsed timestamps, and synchronization result over UART. The clock and synchronization workflow have been verified on hardware.
+
 ### [LPC Voice Changer in MATLAB](https://github.com/chengmiao2005/LPC-Voice-Changer-MATLAB)
 **MATLAB · Digital Signal Processing · LPC · Speech Analysis/Synthesis**
 
@@ -45,7 +50,7 @@ A web-based enterprise map with search, record editing, visit logs, and geograph
 
 ## Technical Stack
 
-`Verilog HDL` · `Xilinx Vivado` · `MATLAB/Simulink` · `ngspice` · `Python` · `Git` · `Keil MDK` · `HTML/CSS/JavaScript`
+`Embedded C` · `Code Composer Studio` · `Verilog HDL` · `Xilinx Vivado` · `MATLAB/Simulink` · `ngspice` · `Python` · `Git` · `Keil MDK` · `HTML/CSS/JavaScript`
 
 ## Engineering Portfolio
 
