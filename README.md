@@ -21,6 +21,11 @@ A modular Breakout-style digital system with separate control, ball-motion, coll
 
 Four progressive C projects on the TM4C123 LaunchPad, covering LED/button control, an ST7735 SPI display, an analog clock, and ESP-01S Wi-Fi time synchronization. The final lab uses the onboard SW1 button to request NTP time, updates the clock to Beijing time (UTC+8), and reports the request, parsed timestamps, and synchronization result over UART. The clock and synchronization workflow have been verified on hardware.
 
+### [5G Uplink Waveform Comparison](https://github.com/chengmiao2005/5G-Uplink-DFTsOFDM-MATLAB)
+**MATLAB · Digital Communications · CP-OFDM · DFT-s-OFDM · Waveform Simulation**
+
+An undergraduate simulation project comparing waveform peaks, bit error rates and clipping distortion under matched bandwidth and modulation. Saved MATLAB runs show lower PAPR with DFT spreading, similar BER in linear AWGN, and higher BER in the chosen Rayleigh/ZF configuration. The repository includes runnable code, six result figures, raw simulation data and Chinese/English report drafts.
+
 ### [LPC Voice Changer in MATLAB](https://github.com/chengmiao2005/LPC-Voice-Changer-MATLAB)
 **MATLAB · Digital Signal Processing · LPC · Speech Analysis/Synthesis**
 
