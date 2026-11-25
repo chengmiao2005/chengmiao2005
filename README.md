@@ -16,6 +16,13 @@ A reproducible simulation study linking synthetic readout-error analysis, MATLAB
 
 A modular Breakout-style digital system with separate control, ball-motion, collision, display, and VGA-timing logic, together with a simulation-oriented development-board wrapper.
 
+### [Automatic Card Dealer](https://github.com/chengmiao2005/embedded-systems/tree/main/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/final_project)
+**Embedded C · TI TM4C123 · Code Composer Studio · SPI · DC Motor Control**
+
+A rotating base aims the dispenser at each player, and a separate motor feeds cards from the tray. A four-button ST7735 menu offers Dou Dizhu, Texas Hold’em, and custom deals. The feed motor has been tested on the prototype with a 300 ms pulse; the firmware uses timed motion rather than sensing each card.
+
+<a href="https://github.com/chengmiao2005/embedded-systems/tree/main/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/final_project"><img src="https://raw.githubusercontent.com/chengmiao2005/embedded-systems/main/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/final_project/docs/prototype.jpg" alt="Card dealer prototype with the LaunchPad, display and motorized tray" width="480"></a>
+
 ### [Embedded Systems Labs: TM4C123 and Wi-Fi Clock](https://github.com/chengmiao2005/embedded-systems)
 **Embedded C · TI TM4C123 · Code Composer Studio · SPI/UART · ESP8266 · NTP**
 
